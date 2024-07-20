@@ -1,0 +1,6 @@
+The project is applying on a little of [HTML] and [CSS] to build a website for [The World Cup].
+The website contains:
+- some pictures
+- video
+- Articles
+- Link you can click on it to be reached to.
